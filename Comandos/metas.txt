@@ -1,0 +1,21 @@
+------------------------------------------------
+15/04/2022
+Otimizados para a pasta vrp_play:
+
+ensure vrp_ignore
+ensure vrp_policia
+ensure vrp_player
+ensure vrp_admin
+ensure vrp_diagnostic
+ensure vrp_realista
+ensure vrp_itemdrop
+ensure vrp_farms
+ensure vrp_emergencyblips
+
+
+ensure desmanche_mapa
+
+
+------------------------------------------------
+Adicionado pacote Nation ja configurado da base Himalaia
+------------------------------------------------

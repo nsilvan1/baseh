@@ -1,0 +1,127 @@
+ ensure lks_bunker
+ ensure int_yellowjack
+ ensure ajnaxanims
+ ensure rd_caminhao
+ ensure emp_corona
+ ensure carioca_community_lojas
+ ensure bigfood
+ ensure favs_onarts
+ ensure favelahelipa
+ ensure favelafarol
+ ensure HospitalLuis
+ ensure tgm_legion
+ ensure favela_cidade_praia
+ ensure favela_charco_rdshop
+ ensure bate_bate
+ ensure PatochePfcLeakedByMapree
+ ensure AntiRPraca
+ ensure gabz_pillbox_hospital_v2
+ ensure Fazenda
+ ensure MecanicaBig
+ ensure favela_cupim
+ ensure uj_casino
+ ensure fav_helipa
+ ensure simpletp
+ ensure vrp_loaf-paintball
+ ensure Santander_Totta
+ ensure ponte_ilha
+ ensure favelafrango 
+ ensure fav_bigode_rdshop
+ ensure armas
+ ensure Luzes-ELS
+ ensure nav_policia_arsenal
+ ensure nav_suricatolavagem
+ ensure dust2
+ ensure loaf_paintball
+ ensure roc_arena
+ ensure patoche_stock
+ ensure barragem
+ ensure bigbennyblackwhite
+ ensure vrp_fabricacar
+ ensure unoEscadaPredio
+ ensure emp_caminhao
+ ensure hospital_coletar  
+ ensure oc_producao-hospital
+ ensure QuedaDeBraco
+ ensure emp_reparos
+ ensure jw_empresario
+ ensure emp_eletricista
+ ensure vrp_loading
+ ensure vrp_empresas
+ ensure emp_corona
+ ensure vrp_legacyfuel
+ ensure vrp_tattoos
+ ensure big_bank
+ ensure vrp_garages
+ ensure mpr_casino
+ ensure mpr_casino2
+ ensure mpr_casino3
+ ensure mpr_casino4
+ ensure mpr_casino5
+ ensure gabz_pillbox_hospital_v2
+ ensure bigode-inventory
+ ensure motoclubmuro
+ ensure DesmancheBig
+ ensure np-cowboysbennys
+ ensure Mechanic_icecream
+ ensure bancos_praca
+ ensure vrp_logo
+ ensure MARC_UNICORN
+ ensure sport-store-mlo
+ ensure DP_BAHAMAS
+ ensure ofimecsportrace
+ ensure vrp_admpanel
+ ensure big_fome
+ ensure sitting_codes
+ ensure hane_subway
+ ensure vanvanilla
+ ensure prison
+ ensure surfboard
+ ensure vrp_veiculosbr
+ ensure Unimed
+ ensure blzr_desmanchar
+ ensure mec
+ ensure Frm_Perico_Shops
+ ensure AntiRPraca
+ ensure vrp_radio
+ ensure thor_desmanche
+ ensure Weazelnews
+ ensure baggedram
+ ensure vrp_notifyitens
+ ensure Hospital
+ ensure mapa_ultragas
+ ensure mapastest
+ ensure lossantos
+ ensure fav_laguinho
+ ensure PlasmaGame
+ ensure patoche_plasmagame
+ ensure PracaEstatua
+ ensure ajnaxanims
+ ensure b2k-safezone
+ensure big_cloack
+ensure big_cloack
+ensure big_cloack_2
+ensure unin2014
+ensure emp_taxista
+ensure emp_hospital
+ensure thor_transportadora
+ensure thor_ultragaz
+ensure gas
+ensure rd_caminhao
+ensure emp_Ifood2
+ensure ifood_coletar
+ensure bar_corona
+ensure truck_logistics
+ensure thor_transportadora
+ensure jw_emp_colheita
+ensure nav_colheita_vender
+ensure mpr_skinshop
+ensure thor_lixeiro
+ensure emp_taxista
+ensure emp_motorista
+ensure praca_big
+ensure LogoAnimada
+ensure Mecanicadopix
+ensure cd_easytime
+ensure rare5m_fuel
+ensure rare5m_gasstation

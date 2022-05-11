@@ -1,0 +1,10 @@
+ADA = azul
+CV = verde
+TCP = vermelho
+FM = laranjas
+PCC = mafia
+CASANOSTRA = milicia
+MerryWeather = nomade
+
+
+bratva = triade
